@@ -1,0 +1,15 @@
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <solid android:color="@color/white" /> <!-- Set the background color -->
+    <corners android:radius="30dp" /> <!-- Set the corner radius -->
+    <stroke
+        android:color="#000000"
+        android:width="2dp" /> <!-- Set the stroke width -->
+    <padding
+        android:left="10dp"
+        android:top="5dp"
+        android:right="10dp"
+        android:bottom="5dp" /> <!-- Adjust the padding to change the height -->
+    <solid android:color="@color/teal_200" />
+</shape>
